@@ -1,0 +1,3 @@
+E:/university term 2/osul/checkkkk/pro2/cmake-build-debug/CMakeFiles/pro2.dir
+E:/university term 2/osul/checkkkk/pro2/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/university term 2/osul/checkkkk/pro2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

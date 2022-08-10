@@ -1,0 +1,4 @@
+setia 12
+mama 34
+baba 12
+nana 12
